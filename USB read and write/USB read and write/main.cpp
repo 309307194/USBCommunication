@@ -27,7 +27,7 @@ int main()
 	if ('1' == c)
 	{
 
-		CustomReadFile();
+		CustomReadFile();	//测试此次提交是否成功
 	}
 	if ('2' == c)
 	{
