@@ -26,6 +26,7 @@ int main()
 	char c = getchar();
 	if ('1' == c)
 	{
+
 		CustomReadFile();
 	}
 	if ('2' == c)
